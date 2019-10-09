@@ -44,8 +44,8 @@ install:
   fi
 - pip install --quiet xlrd
 - pip install --quiet openpyxl
-- conda install -q -y -c anaconda pandas networkx jupyter
-#
+- conda install -q -y -c anaconda pandas networkx jupyter 
+- conda install -c conda-forge pyomo
 - if [ -n "${EXTRAS}" ]; then conda install -q -y --channel conda-forge pyomo.extras; fi
 - if [ "$TRAVIS_PYTHON_VERSION" != "2.6" -a -n "${EXTRAS}" ]; then
      conda install -q -y -c anaconda scipy;

@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Pyomo/PyomoGallery.svg?branch=master)](https://travis-ci.org/Pyomo/PyomoGallery)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReinboldV/PyomoGallery/master)
 
 # PyomoGallery
 A collection of Pyomo examples

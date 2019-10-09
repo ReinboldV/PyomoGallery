@@ -2,13 +2,13 @@ name: PyomoGallery
 channels:
   - conda-forge
   - defaults
- dependencies:
-   - pyomo
-   - networkx
-   - pandas
-   - numpy
-   - glpk
-   - coincbc
-   - ipopt
-   - matplotlib
-   - pyomo.solvers
+dependencies:
+  - pyomo
+  - networkx
+  - pandas   
+  - numpy
+  - glpk
+  - coincbc
+  - ipopt
+  - matplotlib
+  - pyomo.solvers

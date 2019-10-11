@@ -1,6 +1,0 @@
-matplotlib
-numpy
-networkx
-pandas
-pyomo
-pyomo.solvers

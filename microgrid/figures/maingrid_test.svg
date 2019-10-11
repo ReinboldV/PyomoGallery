@@ -4569,7 +4569,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="413.1939"
-     inkscape:cy="379.93776"
+     inkscape:cy="837.08062"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -4615,8 +4615,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#888888;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 231.56493,461.24996 193.75819,-0.0994"
@@ -4624,39 +4624,47 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        d="m 159.44882,414.56693 265.74803,0 m -124.01575,0 0,53.14961"
        id="path12760-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 360.61327,187.11592 0,24.99999"
        id="path12766"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#888888;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 291.11327,222.11591 0.43555,-69.5821 235.87111,-0.43556"
        id="path16137"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#888888;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 266.11327,222.11591 275.00001,0"
        id="path16135"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 158.35494,111.0693 c 3.31545,1.01738 11.8836,2.06728 15.22661,0.35876 3.21016,8.53911 18.72362,8.86489 33.42277,6.40912 -1.69081,2.9883 17.23055,8.22328 28.15467,7.15207"
        id="path13268-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="315.1239"
        y1="268.62927"
@@ -4665,8 +4673,8 @@
        id="line5-9"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="329.04077"
        y1="271.92902"
@@ -4675,8 +4683,8 @@
        id="line8-1"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="334.98346"
        y1="294.95697"
@@ -4685,8 +4693,8 @@
        id="line11-8"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="334.98346"
        y1="297.51495"
@@ -4695,8 +4703,8 @@
        id="line14-8"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="295.06964"
        y1="289.61975"
@@ -4705,8 +4713,8 @@
        id="line17-7"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="293.75052"
        y1="291.33606"
@@ -4715,8 +4723,8 @@
        id="line20-1"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="334.98346"
        y1="265.53339"
@@ -4725,8 +4733,8 @@
        id="line23-3"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="353.20624"
        y1="258.92175"
@@ -4735,8 +4743,8 @@
        id="line26-1"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="334.98346"
        y1="297.51495"
@@ -4745,8 +4753,8 @@
        id="line29-6"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="334.98346"
        y1="294.95697"
@@ -4755,8 +4763,8 @@
        id="line32-3"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="338.07004"
        y1="268.92255"
@@ -4765,8 +4773,8 @@
        id="line35-8"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="336.11798"
        y1="232.99792"
@@ -4775,8 +4783,8 @@
        id="line38-7"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="310.21017"
        y1="238.33105"
@@ -4785,8 +4793,8 @@
        id="line41-10"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="293.75052"
        y1="265.60394"
@@ -4795,8 +4803,8 @@
        id="line44-6"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="272.07632"
        y1="263.56091"
@@ -4805,8 +4813,8 @@
        id="line47-3"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="288.51227"
        y1="247.82166"
@@ -4815,8 +4823,8 @@
        id="line50-9"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="291.08249"
        y1="247.88531"
@@ -4825,8 +4833,8 @@
        id="line53-6"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="292.41519"
        y1="248.2207"
@@ -4835,8 +4843,8 @@
        id="line56-2"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="338.07004"
        y1="268.92255"
@@ -4845,8 +4853,8 @@
        id="line62-2"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="313.09402"
        y1="241.49768"
@@ -4855,8 +4863,8 @@
        id="line65-4"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="319.93628"
        y1="280.13678"
@@ -4865,8 +4873,8 @@
        id="line71-6"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="319.93628"
        y1="270.57501"
@@ -4875,8 +4883,8 @@
        id="line74-7"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="329.04077"
        y1="271.92902"
@@ -4885,8 +4893,8 @@
        id="line77-7"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="315.1239"
        y1="289.55585"
@@ -4895,8 +4903,8 @@
        id="line80-4"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="289.58231"
        y1="291.42694"
@@ -4905,8 +4913,8 @@
        id="line83-6"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="289.29132"
        y1="264.28076"
@@ -4915,8 +4923,8 @@
        id="line86-2"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="306.45209"
        y1="231.70013"
@@ -4925,8 +4933,8 @@
        id="line89-8"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="291.08249"
        y1="237.42755"
@@ -4935,8 +4943,8 @@
        id="line92-7"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="295.06134"
        y1="264.39801"
@@ -4945,8 +4953,8 @@
        id="line95-9"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <line
        x1="316.11328"
        y1="231.70013"
@@ -4955,24 +4963,24 @@
        id="line98-8"
        style="fill:none;stroke:none"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3093-748-4);fill-opacity:1;stroke:none"
        id="path2556-3"
        d="m 335.03184,265.50362 3.05228,3.34459 15.07251,-9.93358 0.008,18.81507 -18.13295,17.13662 0,-29.3627 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3090-97-9);fill-opacity:1;stroke:none"
        id="path2558-4"
        d="m 304.08472,286.41865 0,-18.78123 11.01372,0.96253 0.0386,20.96356 -11.05234,-3.14486 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3819-676-8);fill-opacity:1;stroke:none;filter:url(#filter3877-8)"
@@ -4980,230 +4988,232 @@
        d="M 2358.046,1849.1651 4146.0754,1537.1073 2902.1516,2358.6493 2358.046,1849.1651 Z"
        transform="matrix(0.01636548,0,0,0.01636548,290.01041,231.69429)"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3086-897-4);fill-opacity:1;stroke:none"
        id="path2554-4"
        d="m 315.13706,289.56351 -0.0386,-20.96356 -11.49805,-1.64276 0,19.46146 -7.73254,-2.13078 0,-25.36297 17.24548,-17.43409 21.91851,24.01281 0,29.3627 -19.89478,-5.30281 z m 13.92779,-17.66118 -9.13042,-1.35492 -0.0125,9.61704 9.1307,1.58761 0.0124,-9.84973 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient3083-508-3);fill-opacity:1;stroke:none"
        id="path2560-4"
        d="m 320.36836,280.16445 0,-9.123 8.69033,0.86088 0,9.84973 -8.69033,-1.58761 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#303030;fill-opacity:1;stroke:none"
        id="path3374-8"
        d="m 303.60039,266.95719 0.0128,19.41519 11.52387,3.19113 -11.05082,-3.13691 -0.002,-18.78918 11.01372,0.96253 -11.49805,-1.64276 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        d="m 319.93443,270.54741 -0.0125,9.61704 9.13686,1.58761 -8.69031,-1.58761 0,-9.123 8.69031,0.86088 -9.12425,-1.35492 z"
        id="path3379-9"
        style="fill:#303030;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#5e5e5e;fill-opacity:1;stroke:none"
        id="path2544-9"
        d="m 313.10544,241.50994 -17.23759,17.41496 -4.71529,0 15.33033,-15.69177 0,-11.20865 9.62068,0 0.0261,5.1183 19.99318,-4.11636 22.31867,22.37686 -20.3574,13.44493 -24.97868,-27.33827 z"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 216.33276,187.22481 345.05098,-0.10889 -0.0374,24.99906"
        id="path12760"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 168.77827,147.22164 -6.28236,12.62485 1.69252,-34.42223 5.8788,-3.1959 6.66409,29.88917 -7.95305,-4.89589"
        id="path7478-4"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 169.79397,122.79981 -5.63428,6.41065 6.65289,-3.61491 -7.02055,9.25846 8.04483,-4.36929 -8.2446,12.22862 9.90335,-5.38209 -10.42885,13.20194 11.76045,-6.38785"
        id="path7480-1"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 164.53016,125.6564 6.12618,0.0228 -6.65218,3.61136 7.8327,1.19413 -8.04483,4.36929 9.39032,2.64807 -9.90193,5.37504 11.54679,1.26824 -11.76045,6.38783"
        id="path7482-5"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 158.97591,147.60799 3.72866,12.20384 1.40784,-34.37434 -4.22166,-2.58663 -7.20116,30.04052 6.28632,-5.28339"
        id="path7484-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 170.10546,122.40188 -4.56959,-1.53712 -5.623,1.89488"
        id="path7486-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 160.05432,123.40198 3.71192,6.06771 -4.68082,-3.23513 4.53329,8.82369 -5.66225,-3.91234 5.21923,11.70526 -6.96814,-4.81624 6.77034,12.55689 -8.27116,-5.71618"
        id="path7488-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 163.9266,125.41343 -4.73133,0.89449 4.68012,3.23864 -5.91893,1.59935 5.66225,3.91234 -7.1922,3.12688 6.96884,4.8127 -8.68862,1.87781 8.27116,5.71618"
        id="path7490-8"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 156.39076,117.05866 7.66213,8.38308 -4.20166,-2.64924 z"
        id="path7492-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 171.58591,112.07213 -1.65424,10.17373 -4.5336,-1.46112 z"
        id="path7494-5"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.07705835;stroke-opacity:1"
        d="m 154.27863,118.31007 -2.695,-0.7255 22.00819,-6.80078 2.68223,0.28103 -21.99542,7.24525"
        id="path7496-5"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 154.27863,118.31007 -2.695,-0.7255 22.00819,-6.80078 2.68223,0.28103 z"
        id="path7498-4"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 204.3938,167.99159 -8.83015,17.7611 2.37942,-48.44151 8.27194,-4.49003 9.37738,42.04836 -11.19859,-6.87792"
        id="path7500-9"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 205.82204,133.62128 -7.92119,9.02153 9.36281,-5.0876 -9.88362,13.03059 11.32027,-6.15335 -11.59882,17.20476 13.93371,-7.56449 -14.67005,18.57355 16.54548,-8.98797"
        id="path7502-5"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 198.42072,137.64358 8.6251,0.0296 -9.3628,5.08757 11.01729,1.67173 -11.32027,6.15335 13.21946,3.72276 -13.9337,7.56451 16.24485,1.78523 -16.5455,8.98795"
        id="path7504-3"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 190.60992,168.52917 5.24356,17.17839 1.97738,-48.37225 -5.93867,-3.63855 -10.12925,42.26786 8.84698,-7.43545"
        id="path7506-9"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 206.26943,133.06235 -6.42763,-2.15967 -7.91989,2.66759"
        id="path7508-1"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 192.12332,134.47238 5.22089,8.53488 -6.5834,-4.553 6.37575,12.41697 -7.967,-5.50829 7.34682,16.47336 -9.80317,-6.77692 9.52767,17.67051 -11.64339,-8.04606"
        id="path7510-0"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 197.57001,137.29848 -6.65728,1.26174 6.5834,4.55297 -8.32657,2.24975 7.967,5.50829 -10.11464,4.39651 9.8024,6.78091 -12.22683,2.63518 11.64339,8.04606"
        id="path7512-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 186.9698,125.54351 10.77792,11.79482 -5.90892,-3.72448 z"
        id="path7514-2"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 208.35123,118.52361 -2.32673,14.32117 -6.38632,-2.05778 z"
        id="path7516-9"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.08674606;stroke-opacity:1"
        d="m 183.99345,127.2999 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 -30.95431,10.18662"
        id="path7518-1"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 183.99345,127.2999 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 z"
        id="path7520-6"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5211,8 +5221,8 @@
        y="198.14642"
        id="text13891-0"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-8"
          x="147.63333"
@@ -5225,8 +5235,8 @@
        y="248.44403"
        id="text13891-0-4"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-8-3"
          x="385.23856"
@@ -5244,8 +5254,8 @@
        y="252.97528"
        id="text13891-0-7"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-8-7"
          x="487.11069"
@@ -5258,8 +5268,8 @@
        y="252.97528"
        id="text13891-0-83"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-8-58"
          x="547.58978"
@@ -5273,13 +5283,17 @@
        x="429.86322"
        y="213.36591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="437.74542"
        y="228.23926"
-       id="text12536-0"><tspan
+       id="text12536-0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-5"
          x="437.74542"
@@ -5293,13 +5307,17 @@
        x="343.11325"
        y="212.36676"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="351.89047"
        y="227.0011"
-       id="text12536-1-1"><tspan
+       id="text12536-1-1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43-0"
          x="351.89047"
@@ -5313,13 +5331,17 @@
        x="542.36322"
        y="213.36591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="551.37067"
        y="227.92639"
-       id="text12536-1-3"><tspan
+       id="text12536-1-3"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43-8"
          x="551.37067"
@@ -5333,13 +5355,17 @@
        x="274.86325"
        y="178.36591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="283.37067"
        y="192.92639"
-       id="text12536-1-9"><tspan
+       id="text12536-1-9"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43-7"
          x="283.37067"
@@ -5353,13 +5379,17 @@
        x="229.86331"
        y="210.86597"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="237.41022"
        y="225.92639"
-       id="text12536-1-0"><tspan
+       id="text12536-1-0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43-9"
          x="237.41022"
@@ -5373,13 +5403,17 @@
        x="485.36322"
        y="213.36591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="494.37067"
        y="228.92639"
-       id="text12536-1-3-3"><tspan
+       id="text12536-1-3-3"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43-8-7"
          x="494.37067"
@@ -5390,9 +5424,13 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99823576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 336.26064,161.07992 0,25.83588"
        id="path12762"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <g
-       id="g7599">
+       id="g7599"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <line
          inkscape:export-ydpi="378"
          inkscape:export-xdpi="378"
@@ -6859,13 +6897,17 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9982357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 436.26064,161.07992 0,25.83588"
        id="path12762-0"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9982357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 541.61327,161.28004 0,25.83588"
        id="path12762-1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -6873,8 +6915,8 @@
        y="132.79559"
        id="text13891-4"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-86"
          x="407.71878"
@@ -6888,7 +6930,9 @@
        width="25.731855"
        id="rect12080"
        style="fill:#f4f4f4;fill-opacity:1;stroke:#575757;stroke-width:2.17313862;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        ry="2.1731386"
        y="56.668793"
@@ -6897,7 +6941,9 @@
        width="13.038832"
        id="rect12082"
        style="fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:4.08885002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        ry="2.1731386"
        y="114.80096"
@@ -6906,7 +6952,9 @@
        width="13.038832"
        id="rect12082-3"
        style="fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:4.08885002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="1.7874526"
@@ -6915,7 +6963,9 @@
        height="10.724739"
        width="21.731377"
        id="rect12080-1"
-       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -6924,7 +6974,9 @@
        height="6.0847878"
        width="21.731377"
        id="rect12080-1-2"
-       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -6933,7 +6985,9 @@
        height="6.0847878"
        width="21.731377"
        id="rect12080-1-2-8"
-       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -6942,7 +6996,9 @@
        height="6.0847878"
        width="21.731377"
        id="rect12080-1-2-8-5"
-       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#8d8d8d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        ry="2.571429"
        y="76.599457"
@@ -6951,7 +7007,9 @@
        width="17.021442"
        id="rect12080-9"
        style="fill:#f4f4f4;fill-opacity:1;stroke:#8a8a8a;stroke-width:1.43751609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        ry="1.4375161"
        y="74.149323"
@@ -6960,7 +7018,9 @@
        width="8.6250973"
        id="rect12082-7"
        style="fill:#909090;fill-opacity:1;stroke:none;stroke-width:4.08885002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        ry="1.4375161"
        y="112.60336"
@@ -6969,7 +7029,9 @@
        width="8.6250973"
        id="rect12082-3-2"
        style="fill:#909090;fill-opacity:1;stroke:none;stroke-width:4.08885002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="1.1823876"
@@ -6978,7 +7040,9 @@
        height="7.0943408"
        width="14.375155"
        id="rect12080-1-23"
-       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -6987,7 +7051,9 @@
        height="4.0250449"
        width="14.375155"
        id="rect12080-1-2-7"
-       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -6996,7 +7062,9 @@
        height="4.0250449"
        width="14.375155"
        id="rect12080-1-2-8-0"
-       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <rect
        transform="scale(-1,-1)"
        ry="0"
@@ -7005,14 +7073,18 @@
        height="4.0250449"
        width="14.375155"
        id="rect12080-1-2-8-5-8"
-       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#5d5d5d;fill-opacity:1;stroke:none;stroke-width:16.35540009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        id="text12200"
        y="123.99039"
        x="-412.18747"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       transform="scale(-1,1)"><tspan
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          y="123.99039"
          x="-412.18747"
          id="tspan12202"
@@ -7024,7 +7096,9 @@
        x="-413.89117"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       transform="scale(-1,1)"><tspan
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          y="58.891083"
          x="-413.89117"
          id="tspan12206"
@@ -7038,13 +7112,17 @@
        x="417.15622"
        y="140.86591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="425.74539"
        y="155.92639"
-       id="text12536-1"><tspan
+       id="text12536-1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-43"
          x="425.74539"
@@ -7054,12 +7132,16 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 443.61328,187.11592 0,24.99999"
        id="path12768"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 504.11327,187.11592 0,24.99999"
        id="path12770"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -7067,8 +7149,8 @@
        y="132.79559"
        id="text13891-05"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-6"
          x="494.55078"
@@ -7081,7 +7163,9 @@
        height="14.938812"
        width="1.005497"
        id="rect11909-6-3"
-       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.2061218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.2061218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.19347566px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 522.01364,69.211012 c -0.49695,3.60831 -0.40474,3.79332 -0.69611,6.9544 l 0.0592,0.0703 c -1.75914,-4.19038 -3.62293,-5.85869 -1.81209,-9.33303 1.54487,-2.96406 5.81074,-6.79009 6.19983,-6.14168 0.38908,0.64841 -3.40973,5.97314 -3.75087,8.45004 z"
@@ -7091,8 +7175,8 @@
        inkscape:transform-center-x="-10.097164"
        inkscape:transform-center-y="-31.724522"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <use
        x="0"
        y="0"
@@ -7127,11 +7211,13 @@
        cx="521.28528"
        style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:0.2061218;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6529-6-2-2"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <g
        id="g12038"
-       transform="matrix(0.11242133,0,0,0.11242133,191.45802,-135.02415)">
+       transform="matrix(0.11242133,0,0,0.11242133,191.45802,-135.02415)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <rect
          style="fill:#8b8b8b;fill-opacity:1;stroke:#000000;stroke-width:2.93939757;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect11909-6"
@@ -7190,7 +7276,9 @@
     </g>
     <g
        transform="matrix(0.11242133,0,0,0.11242133,179.28518,52.053322)"
-       id="g11911">
+       id="g11911"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <rect
          style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:4.08885002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect11909"
@@ -7256,13 +7344,17 @@
        x="524.93854"
        y="140.86591"
        rx="4.7611799"
-       ry="4.4720001" />
+       ry="4.4720001"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="531.18903"
        y="156.74512"
-       id="text12536-5"><tspan
+       id="text12536-5"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan12538-0"
          x="531.18903"
@@ -7273,13 +7365,17 @@
        id="path12774"
        cx="240.11331"
        cy="186.11591"
-       r="10" />
+       r="10"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <circle
        style="fill:#e5e5e5;fill-opacity:1;stroke:#555555;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path12774-0"
        cx="250.11336"
        cy="186.11591"
-       r="10" />
+       r="10"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -7287,8 +7383,8 @@
        y="252.97528"
        id="text13891-0-7-7"
        inkscape:export-filename="D:\Vincent\Publication_presentation\2015\ELECON 2015\path6529.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan13893-8-7-9"
          x="441.55856"
@@ -7304,58 +7400,78 @@
        d="m 144.23488,120.85152 c 3.31545,1.01739 6.65699,-0.54602 10,-2.25454 6.97795,8.71148 14.55481,15.94878 28.05862,8.59664 0.63387,-0.34513 13.24802,13.65789 34.60768,4.31122"
        id="path13268"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsc" />
+       sodipodi:nodetypes="ccsc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 353.66098,208.34945 0,-18.23351"
        id="path13285-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.87083,208.34944 0,-18.23352"
        id="path13285-3-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 500.00661,208.34944 0,-18.23352"
        id="path13285-3-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 556.00662,208.34944 0,-18.23352"
        id="path13285-3-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 330.00662,182.34944 0,-18.23352"
        id="path13285-3-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        d="m 430.00662,182.34944 0,-18.23352"
        id="path13285-3-6-8"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 535.00661,182.34944 0,-18.23352"
        id="path13285-3-6-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-0)"
        d="m 229.71927,168.91925 33.26001,0.1089"
        id="path13285-3-6-8-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245" />
     <g
        id="g20406"
-       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-62.967008)">
+       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-62.967008)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -7379,7 +7495,9 @@
     </g>
     <g
        id="g20411"
-       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-61.181298)">
+       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-61.181298)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -7403,7 +7521,9 @@
     </g>
     <g
        id="g20416"
-       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-62.967008)">
+       transform="matrix(0.10918194,0,0,0.10918194,-207.46607,-62.967008)"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -7430,7 +7550,9 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="175.93507"
        y="246.61298"
-       id="text20421"><tspan
+       id="text20421"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan20423"
          x="175.93507"
@@ -7441,7 +7563,9 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="176.43558"
        y="269.11292"
-       id="text20425"><tspan
+       id="text20425"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          x="176.43558"
          y="269.11292"
@@ -7452,7 +7576,9 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="175.93507"
        y="291.61298"
-       id="text20429"><tspan
+       id="text20429"
+       inkscape:export-xdpi="228.98245"
+       inkscape:export-ydpi="228.98245"><tspan
          sodipodi:role="line"
          id="tspan20431"
          x="175.93507"
@@ -7464,8 +7590,8 @@
        id="path13268-6-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        inkscape:connector-curvature="0"
@@ -7473,176 +7599,176 @@
        d="m 121.26333,375.67265 -6.28236,12.62485 1.69252,-34.42223 5.8788,-3.1959 6.66409,29.88917 -7.95305,-4.89589"
        id="path7478-4-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 122.27903,351.25082 -5.63428,6.41065 6.65289,-3.61491 -7.02055,9.25846 8.04483,-4.36929 -8.2446,12.22862 9.90335,-5.38209 -10.42885,13.20194 11.76045,-6.38785"
        id="path7480-1-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 117.01522,354.10741 6.12618,0.0228 -6.65218,3.61136 7.8327,1.19413 -8.04483,4.36929 9.39032,2.64807 -9.90193,5.37504 11.54679,1.26824 -11.76045,6.38783"
        id="path7482-5-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 111.46097,376.059 3.72866,12.20384 1.40784,-34.37434 -4.22166,-2.58663 -7.20116,30.04052 6.28632,-5.28339"
        id="path7484-2-0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 122.59052,350.85289 -4.56959,-1.53712 -5.623,1.89488"
        id="path7486-2-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 112.53938,351.85299 3.71192,6.06771 -4.68082,-3.23513 4.53329,8.82369 -5.66225,-3.91234 5.21923,11.70526 -6.96814,-4.81624 6.77034,12.55689 -8.27116,-5.71618"
        id="path7488-2-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 116.41166,353.86444 -4.73133,0.89449 4.68012,3.23864 -5.91893,1.59935 5.66225,3.91234 -7.1922,3.12688 6.96884,4.8127 -8.68862,1.87781 8.27116,5.71618"
        id="path7490-8-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 108.87582,345.50967 7.66213,8.38308 -4.20166,-2.64924 z"
        id="path7492-2-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 124.07097,340.52314 -1.65424,10.17373 -4.5336,-1.46112 z"
        id="path7494-5-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.07705835;stroke-opacity:1"
        d="m 106.76369,346.76108 -2.695,-0.7255 22.00819,-6.80078 2.68223,0.28103 -21.99542,7.24525"
        id="path7496-5-3"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 106.76369,346.76108 -2.695,-0.7255 22.00819,-6.80078 2.68223,0.28103 z"
        id="path7498-4-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 156.87886,396.4426 -8.83015,17.7611 2.37942,-48.44151 8.27194,-4.49003 9.37738,42.04836 -11.19859,-6.87792"
        id="path7500-9-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 158.3071,362.07229 -7.92119,9.02153 9.36281,-5.0876 -9.88362,13.03059 11.32027,-6.15335 -11.59882,17.20476 13.93371,-7.56449 -14.67005,18.57355 16.54548,-8.98797"
        id="path7502-5-3"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 150.90578,366.09459 8.6251,0.0296 -9.3628,5.08757 11.01729,1.67173 -11.32027,6.15335 13.21946,3.72276 -13.9337,7.56451 16.24485,1.78523 -16.5455,8.98795"
        id="path7504-3-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 143.09498,396.98018 5.24356,17.17839 1.97738,-48.37225 -5.93867,-3.63855 -10.12925,42.26786 8.84698,-7.43545"
        id="path7506-9-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 158.75449,361.51336 -6.42763,-2.15967 -7.91989,2.66759"
        id="path7508-1-3"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 144.60838,362.92339 5.22089,8.53488 -6.5834,-4.553 6.37575,12.41697 -7.967,-5.50829 7.34682,16.47336 -9.80317,-6.77692 9.52767,17.67051 -11.64339,-8.04606"
        id="path7510-0-1"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 150.05507,365.74949 -6.65728,1.26174 6.5834,4.55297 -8.32657,2.24975 7.967,5.50829 -10.11464,4.39651 9.8024,6.78091 -12.22683,2.63518 11.64339,8.04606"
        id="path7512-2-3"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 139.45486,353.99452 10.77792,11.79482 -5.90892,-3.72448 z"
        id="path7514-2-6"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 160.83629,346.97462 -2.32673,14.32117 -6.38632,-2.05778 z"
        id="path7516-9-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.08674606;stroke-opacity:1"
        d="m 136.47851,355.75091 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 -30.95431,10.18662"
        id="path7518-1-1"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 136.47851,355.75091 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 z"
        id="path7520-6-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -7650,8 +7776,8 @@
        y="435.92361"
        id="text13891-0-48"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan13893-8-1"
          x="167.88849"
@@ -7663,8 +7789,8 @@
        cx="192.59837"
        cy="414.56693"
        r="10"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <circle
        style="fill:#e5e5e5;fill-opacity:1;stroke:#555555;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7672,8 +7798,8 @@
        cx="202.59842"
        cy="414.56693"
        r="10"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7681,8 +7807,8 @@
        id="path13268-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5891);marker-start:"
@@ -7690,8 +7816,8 @@
        id="path13285-3-6-8-5-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#8a8a8a;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7702,8 +7828,8 @@
        y="451.25"
        rx="4.7611799"
        ry="4.4720001"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <text
        xml:space="preserve"
@@ -7711,8 +7837,8 @@
        x="291.56329"
        y="466.12335"
        id="text12536-0-3"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"><tspan
          sodipodi:role="line"
          id="tspan12538-5-5"
@@ -7726,8 +7852,8 @@
        y="487.36652"
        id="text13891-0-7-7-0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan13893-8-7-9-7"
          x="299.93112"
@@ -7746,14 +7872,14 @@
        id="line59-5-4"
        style="fill:none;stroke:none"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <g
        id="g11668"
        transform="matrix(0.66026938,0,0,0.66026938,115.7148,112.41341)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <line
          inkscape:export-ydpi="378"
          inkscape:export-xdpi="378"
@@ -9176,8 +9302,8 @@
        y="350.53317"
        id="text13891-8-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        transform="scale(1.0017674,0.99823571)"><tspan
          sodipodi:role="line"
          id="tspan13893-7-8"
@@ -9193,8 +9319,8 @@
        y="357.95657"
        rx="4.7611799"
        ry="4.4562345"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <text
        xml:space="preserve"
@@ -9203,8 +9329,8 @@
        y="373.34906"
        id="text12536-51-7"
        transform="scale(1.0017674,0.99823571)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"><tspan
          sodipodi:role="line"
          id="tspan12538-8-3"
@@ -9217,8 +9343,8 @@
        id="path10211"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10234)"
@@ -9226,8 +9352,8 @@
        id="path13285-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10234-4)"
@@ -9235,8 +9361,8 @@
        id="path13285-3-7-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <text
        xml:space="preserve"
@@ -9244,8 +9370,8 @@
        x="314.15744"
        y="433.6438"
        id="text10975"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"><tspan
          sodipodi:role="line"
          id="tspan10977"
@@ -9257,7 +9383,9 @@
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="316.68283"
        y="391.21735"
-       id="text10979"><tspan
+       id="text10979"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan10981"
          x="316.68283"
@@ -9269,8 +9397,8 @@
        x="314.60172"
        y="390.78214"
        id="text10975-0"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"><tspan
          sodipodi:role="line"
          id="tspan10977-2"
@@ -9284,8 +9412,8 @@
        cy="414.57202"
        rx="2.6339285"
        ry="2.6116071"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        sodipodi:nodetypes="cc"
@@ -9294,8 +9422,8 @@
        id="path12762-0-7"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -9303,8 +9431,8 @@
        y="351.59262"
        id="text13891-4-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan13893-86-8"
          x="397.9725"
@@ -9314,8 +9442,8 @@
        id="g11915"
        transform="matrix(0.70971603,0,0,0.70971603,118.70183,107.1846)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <rect
          transform="scale(-1,1)"
          style="fill:#f4f4f4;fill-opacity:1;stroke:#575757;stroke-width:2.17313862;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -9477,8 +9605,8 @@
        rx="4.7611799"
        ry="4.4720001"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -9486,8 +9614,8 @@
        y="372.94437"
        id="text12536-1-96"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan12538-43-04"
          x="416.78516"
@@ -9500,8 +9628,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 425.19685,414.56693 0,35.43307"
@@ -9509,14 +9637,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <g
        id="g12609"
        transform="matrix(0.76433316,0,0,0.76433316,76.948418,89.371866)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <line
          inkscape:export-ydpi="378"
          inkscape:export-xdpi="378"
@@ -9870,8 +9998,8 @@
        y="487.06046"
        id="text13891-0-4-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          x="457.02213"
          y="487.06046"
@@ -9892,8 +10020,8 @@
        rx="4.7611799"
        ry="4.4720001"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -9901,8 +10029,8 @@
        y="465.88434"
        id="text12536-1-1-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan12538-43-0-2"
          x="416.47406"
@@ -9912,8 +10040,8 @@
        id="g20406-7"
        transform="matrix(0.10918194,0,0,0.10918194,-228.49251,188.1745)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -9939,8 +10067,8 @@
        id="g20411-2"
        transform="matrix(0.10918194,0,0,0.10918194,-228.49251,189.96021)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -9966,8 +10094,8 @@
        id="g20416-5"
        transform="matrix(0.10918194,0,0,0.10918194,-228.49251,188.1745)"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378">
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904">
       <rect
          ry="29.25654"
          rx="31.148401"
@@ -9996,8 +10124,8 @@
        y="497.75449"
        id="text20421-6"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan20423-4"
          x="154.90862"
@@ -10010,8 +10138,8 @@
        y="520.25446"
        id="text20425-5"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          x="155.40913"
          y="520.25446"
@@ -10024,8 +10152,8 @@
        y="542.75452"
        id="text20429-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan20431-1"
          x="154.90862"
@@ -10041,8 +10169,8 @@
        rx="4.7611799"
        ry="4.4720001"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10050,8 +10178,8 @@
        y="419.12741"
        id="text12536-1-9-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan12538-43-7-2"
          x="257.78891"
@@ -10067,8 +10195,8 @@
        rx="4.7611799"
        ry="4.4720001"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10076,8 +10204,8 @@
        y="465.06042"
        id="text12536-1-0-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"><tspan
          sodipodi:role="line"
          id="tspan12538-43-9-2"
          x="202.86186"
@@ -10090,8 +10218,8 @@
        cy="414.45087"
        rx="2.6339285"
        ry="2.6116071"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#888888;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
@@ -10099,8 +10227,8 @@
        id="path16137-6-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#888888;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999999, 0.99999999;stroke-dashoffset:0;stroke-opacity:1"
@@ -10108,8 +10236,8 @@
        id="path16135-2-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
@@ -10117,8 +10245,8 @@
        id="path12760-1-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10126,8 +10254,8 @@
        id="path13268-6-8-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        inkscape:connector-curvature="0"
@@ -10135,176 +10263,176 @@
        d="m 113.32596,621.30371 -6.28236,12.62485 1.69252,-34.42223 5.8788,-3.1959 6.66409,29.88917 -7.95305,-4.89589"
        id="path7478-4-4-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 114.34166,596.88188 -5.63428,6.41065 6.65289,-3.61491 -7.02055,9.25846 8.04483,-4.36929 -8.2446,12.22862 9.90335,-5.38209 -10.42885,13.20194 11.76045,-6.38785"
        id="path7480-1-9-6"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 109.07785,599.73847 6.12618,0.0228 -6.65218,3.61136 7.8327,1.19413 -8.04483,4.36929 9.39032,2.64807 -9.90193,5.37504 11.54679,1.26824 -11.76045,6.38783"
        id="path7482-5-8-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 103.5236,621.69006 3.72866,12.20384 1.40784,-34.37434 -4.22166,-2.58663 -7.201157,30.04052 6.286317,-5.28339"
        id="path7484-2-0-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 114.65315,596.48395 -4.56959,-1.53712 -5.623,1.89488"
        id="path7486-2-2-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 104.60201,597.48405 3.71192,6.06771 -4.68082,-3.23513 4.53329,8.82369 -5.66225,-3.91234 5.21923,11.70526 -6.96814,-4.81624 6.77034,12.55689 -8.271157,-5.71618"
        id="path7488-2-4-0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 108.47429,599.4955 -4.73133,0.89449 4.68012,3.23864 -5.91893,1.59935 5.66225,3.91234 -7.1922,3.12688 6.96884,4.8127 -8.688617,1.87781 8.271157,5.71618"
        id="path7490-8-9-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 100.93845,591.14073 7.66213,8.38308 -4.20166,-2.64924 z"
        id="path7492-2-7-8"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 116.1336,586.1542 -1.65424,10.17373 -4.5336,-1.46112 z"
        id="path7494-5-9-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.07705835;stroke-opacity:1"
        d="m 98.826323,592.39214 -2.695,-0.7255 22.008187,-6.80078 2.68223,0.28103 -21.995417,7.24525"
        id="path7496-5-3-0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:0.93747884;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 98.826323,592.39214 -2.695,-0.7255 22.008187,-6.80078 2.68223,0.28103 z"
        id="path7498-4-4-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 148.94149,642.07366 -8.83015,17.7611 2.37942,-48.44151 8.27194,-4.49003 9.37738,42.04836 -11.19859,-6.87792"
        id="path7500-9-8-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 150.36973,607.70335 -7.92119,9.02153 9.36281,-5.0876 -9.88362,13.03059 11.32027,-6.15335 -11.59882,17.20476 13.93371,-7.56449 -14.67005,18.57355 16.54548,-8.98797"
        id="path7502-5-3-6"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 142.96841,611.72565 8.6251,0.0296 -9.3628,5.08757 11.01729,1.67173 -11.32027,6.15335 13.21946,3.72276 -13.9337,7.56451 16.24485,1.78523 -16.5455,8.98795"
        id="path7504-3-8-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 135.15761,642.61124 5.24356,17.17839 1.97738,-48.37225 -5.93867,-3.63855 -10.12925,42.26786 8.84698,-7.43545"
        id="path7506-9-4-0"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 150.81712,607.14442 -6.42763,-2.15967 -7.91989,2.66759"
        id="path7508-1-3-6"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 136.67101,608.55445 5.22089,8.53488 -6.5834,-4.553 6.37575,12.41697 -7.967,-5.50829 7.34682,16.47336 -9.80317,-6.77692 9.52767,17.67051 -11.64339,-8.04606"
        id="path7510-0-1-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 142.1177,611.38055 -6.65728,1.26174 6.5834,4.55297 -8.32657,2.24975 7.967,5.50829 -10.11464,4.39651 9.8024,6.78091 -12.22683,2.63518 11.64339,8.04606"
        id="path7512-2-3-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 131.51749,599.62558 10.77792,11.79482 -5.90892,-3.72448 z"
        id="path7514-2-6-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 152.89892,592.60568 -2.32673,14.32117 -6.38632,-2.05778 z"
        id="path7516-9-9-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#585858;stroke-width:0.08674606;stroke-opacity:1"
        d="m 128.54114,601.38197 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 -30.95431,10.18662"
        id="path7518-1-1-2"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#585858;stroke-width:1.05533779;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-opacity:1"
        d="m 128.54114,601.38197 -3.79062,-1.01358 30.97041,-9.57259 3.77452,0.39955 z"
        id="path7520-6-4-9"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -10312,8 +10440,8 @@
        y="681.55469"
        id="text13891-0-48-5"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"><tspan
          sodipodi:role="line"
          id="tspan13893-8-1-4"
          x="159.95113"
@@ -10325,8 +10453,8 @@
        cx="184.66101"
        cy="660.198"
        r="10"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <circle
        style="fill:#e5e5e5;fill-opacity:1;stroke:#555555;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -10334,8 +10462,8 @@
        cx="194.66104"
        cy="660.198"
        r="10"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10343,8 +10471,8 @@
        id="path13268-8-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <rect
        style="fill:#e5e5e5;fill-opacity:1;stroke:#8a8a8a;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -10355,8 +10483,8 @@
        y="696.8811"
        rx="4.7611799"
        ry="4.4720001"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -10364,8 +10492,8 @@
        x="283.62595"
        y="711.75446"
        id="text12536-0-3-9"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan12538-5-5-5"
@@ -10379,8 +10507,8 @@
        y="732.99762"
        id="text13891-0-7-7-0-4"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"><tspan
          sodipodi:role="line"
          id="tspan13893-8-7-9-7-5"
          x="291.99377"
@@ -10399,13 +10527,13 @@
        id="line59-5-4-0"
        style="fill:none;stroke:none"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378" />
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995" />
     <g
        id="g11668-2"
        transform="matrix(0.66026938,0,0,0.66026938,107.77743,358.04447)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png">
       <line
          inkscape:export-ydpi="378"
@@ -11829,8 +11957,8 @@
        y="596.59833"
        id="text13891-8-9-7"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        transform="scale(1.0017674,0.99823571)"><tspan
          sodipodi:role="line"
          id="tspan13893-7-8-0"
@@ -11846,8 +11974,8 @@
        y="603.58765"
        rx="4.7611799"
        ry="4.4562345"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -11856,8 +11984,8 @@
        y="619.41425"
        id="text12536-51-7-1"
        transform="scale(1.0017674,0.99823571)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan12538-8-3-6"
@@ -11870,8 +11998,8 @@
        id="path10211-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10234-1)"
@@ -11879,8 +12007,8 @@
        id="path13285-3-7-88"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#6d6d6d;stroke-width:0.84083647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10234-4-0)"
@@ -11888,8 +12016,8 @@
        id="path13285-3-7-8-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -11897,8 +12025,8 @@
        x="306.22009"
        y="679.2749"
        id="text10975-7"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan10977-3"
@@ -11911,8 +12039,8 @@
        x="306.66437"
        y="636.41321"
        id="text10975-0-4"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan10977-2-4"
@@ -11926,8 +12054,8 @@
        cy="660.20312"
        rx="2.6339285"
        ry="2.6116071"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <path
        sodipodi:nodetypes="cc"
@@ -11935,8 +12063,8 @@
        d="m 417.25949,624.76492 0,35.43307"
        id="path12762-0-7-9"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -11945,8 +12073,8 @@
        y="597.22369"
        id="text13891-4-4-5"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"><tspan
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"><tspan
          sodipodi:role="line"
          id="tspan13893-86-8-8"
          x="390.03513"
@@ -11955,8 +12083,8 @@
     <g
        id="g11915-4"
        transform="matrix(0.70971603,0,0,0.70971603,110.76446,352.81566)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png">
       <rect
          transform="scale(-1,1)"
@@ -12118,8 +12246,8 @@
        y="603.51495"
        rx="4.7611799"
        ry="4.4720001"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -12127,8 +12255,8 @@
        x="408.84778"
        y="618.57544"
        id="text12536-1-96-4"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan12538-43-04-3"
@@ -12138,8 +12266,8 @@
     <g
        id="g20406-7-0"
        transform="matrix(0.10918194,0,0,0.10918194,-236.42987,433.80556)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png">
       <rect
          ry="29.25654"
@@ -12165,8 +12293,8 @@
     <g
        id="g20411-2-8"
        transform="matrix(0.10918194,0,0,0.10918194,-236.42987,435.59127)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png">
       <rect
          ry="29.25654"
@@ -12192,8 +12320,8 @@
     <g
        id="g20416-5-1"
        transform="matrix(0.10918194,0,0,0.10918194,-236.42987,433.80556)"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png">
       <rect
          ry="29.25654"
@@ -12222,8 +12350,8 @@
        x="146.97125"
        y="743.38556"
        id="text20421-6-0"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan20423-4-0"
@@ -12236,8 +12364,8 @@
        x="147.47177"
        y="765.88556"
        id="text20425-5-4"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          x="147.47177"
@@ -12250,8 +12378,8 @@
        x="146.97125"
        y="788.38562"
        id="text20429-4-8"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan20431-1-7"
@@ -12267,8 +12395,8 @@
        y="650.198"
        rx="4.7611799"
        ry="4.4720001"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -12276,8 +12404,8 @@
        x="249.85155"
        y="664.75848"
        id="text12536-1-9-7-0"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan12538-43-7-2-7"
@@ -12293,8 +12421,8 @@
        y="695.6311"
        rx="4.7611799"
        ry="4.4720001"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -12302,8 +12430,8 @@
        x="194.9245"
        y="710.69153"
        id="text12536-1-0-2-0"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan12538-43-9-2-7"
@@ -14330,8 +14458,8 @@
        id="path13285-3-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png" />
     <text
        xml:space="preserve"
@@ -14353,8 +14481,8 @@
        id="path13285-3-6-8-5-0-1-6-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -14362,8 +14490,8 @@
        x="182.73642"
        y="637.9964"
        id="text11003-2-9-9"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan11005-0-0-1"
@@ -14376,8 +14504,8 @@
        x="390.06451"
        y="644.23419"
        id="text11003-2-9-9-5"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png"><tspan
          sodipodi:role="line"
          id="tspan11005-0-0-1-4"
@@ -14390,8 +14518,8 @@
        id="path13285-3-7-8-5-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="152.91995"
+       inkscape:export-ydpi="152.91995"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_bat.png" />
     <text
        xml:space="preserve"
@@ -14399,8 +14527,8 @@
        x="193.04916"
        y="389.79364"
        id="text11003-2-9-9-7"
-       inkscape:export-xdpi="378"
-       inkscape:export-ydpi="378"
+       inkscape:export-xdpi="125.22904"
+       inkscape:export-ydpi="125.22904"
        inkscape:export-filename="C:\Users\vincent\Documents\Python\MG\LLMSE\docs\Figures\microgrids_buil.png"><tspan
          sodipodi:role="line"
          id="tspan11005-0-0-1-8"

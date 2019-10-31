@@ -10,6 +10,7 @@ class AbsBatteryV0(AbsDynUnit):
     Battery with ideal efficiency.
 
     This battery is limited in power, variation of power and energy. One can fix initial and final stored energy.
+    (Source convention)
     """
 
     def __init__(self, *args, **kwds):
@@ -72,7 +73,7 @@ class AbsBatteryV0(AbsDynUnit):
             if m.pcmax.value is None:
                 return Constraint.Skip
             else:
-                return -m.pcmax, m.p[t], m.pdmax
+                return -m.pdmax, m.p[t], m.pcmax
 
         def _dpcmax(m, t):
             if m.dpcmax.value is None:
@@ -90,7 +91,7 @@ class AbsBatteryV0(AbsDynUnit):
             return m.de[t] == 1/3600*(m.p[t])
 
         self._e_balance = Constraint(self.time, rule=_energy_balance, doc='Energy balance constraint')
-        self._p_init    = Constraint(self.time, rule=_p_init,    doc='Initialize power')
+        #self._p_init    = Constraint(self.time, rule=_p_init,    doc='Initialize power')
         self._e_initial = Constraint(self.time, rule=_e_initial, doc='Initial energy constraint')
         self._e_final   = Constraint(self.time, rule=_e_final,   doc='Final stored energy constraint')
         self._e_min     = Constraint(self.time, rule=_e_min,     doc='Minimal energy constraint')

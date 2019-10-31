@@ -27,26 +27,20 @@ df.index = (df.index - df.index[0]).total_seconds()
 
 data_batt = {
         'time':   {None: [df.index[0], df.index[-1]]},
-        'socmin': {None: 10},
-        'socmax': {None: 95},
-        'soc0':   {None: 50},
-        'socf':   {None: 50},
-        'dpcmax': {None: 10},
-        'dpdmax': {None: 10},
-        'emin':   {None: 0},
-        'emax':   {None: 100},
-        'pcmax':  {None: 10.0},
-        'pdmax':  {None: 10.0},
-        'etac':   {None: 0.95},
-        'etad':   {None: 0.95}}
+        'dpcmax': {None: 20},
+        'dpdmax': {None: 20},
+        'e0' :    {None: 50}, # soc init  = 50% 
+        'ef' :    {None: 50}, # soc final = 50% 
+        'emin':   {None: 10},  # soc min  = 10% 
+        'emax':   {None: 100},   # 100 kWh battery
+        'pcmax':  {None: 20.0},
+        'pdmax':  {None: 20.0}}
 
 data_mg = {
     'time': {None: [df.index[0], df.index[-1]]},
-    'pmax': {None: 10},
-    'pmin': {None: 10},
-    'cost': {None: 0.12/3600},
-    'cost_in': {None: 0.10/3600},
-    'cost_out': {None: 0.14/3600}
+    'pmax': {None: 30},
+    'pmin': {None: 30},
+    'cost': {None: 0.12/3600}
 }
 
 data_s = {
@@ -61,7 +55,7 @@ data_l = {
     'profile_value': df['P_load_1'].to_dict()}
 
 data = {None: dict(time     = {None: [df.index[0], df.index[-1]]},
-                batt        = data_batt,
+                b           = data_batt,
                 mg          = data_mg,
                 s           = data_s,
                 l           = data_l)}

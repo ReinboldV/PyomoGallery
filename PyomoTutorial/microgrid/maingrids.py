@@ -10,7 +10,7 @@ from cost import def_bilinear_cost, def_linear_cost
 
 from pyomo.environ import Constraint,  Var, Param, Block, Expression, Piecewise
 from pyomo.network import Port
-from pyomo.environ import NonNegativeReals, Binary
+from pyomo.environ import NonNegativeReals, Binary, Reals
 from pandas import Series
 
 __all__ = ['AbsMainGridV0', 'AbsMainGridV1']
@@ -69,7 +69,22 @@ class AbsMainGridV0(AbsPowerSource):
         super().__init__(*args, flow_name=flow_name, **kwgs)
         self.inst_cost = def_linear_cost(self, var_name=flow_name)
         self.component(flow_name).doc = 'Supplied power from the maingrid (source convention)'
+        self.pmin = Param(initialize=UB, doc = 'minimal power (kW)')
+        self.pmax = Param(initialize=UB, doc = 'minimal power (kW)')
+        
+        @self.Constraint(self.time)
+        def _pmax(b, t):
+            if b.pmax.value is None:
+                return Constraint.Skip
+            return -UB, b.p[t] , b.pmax
 
+        @self.Constraint(self.time)
+        def _pmin(b, t):
+            if b.pmin.value is None:
+                return Constraint.Skip
+            return  -b.pmin, b.p[t], UB
+        
+        
 
 class AbsMainGridV1(AbsPowerSource):
     """
